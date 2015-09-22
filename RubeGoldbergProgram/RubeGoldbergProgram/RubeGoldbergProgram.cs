@@ -20,6 +20,8 @@ namespace RubeGoldbergProgram
 
 			Console.WriteLine("And let's use the random number. [{0}]", randomNumberTwo);
 
+			Console.WriteLine("What can we do with these numbers?");
+
 			Console.WriteLine("Press any key to continue.");
 			Console.ReadLine();
 		}
