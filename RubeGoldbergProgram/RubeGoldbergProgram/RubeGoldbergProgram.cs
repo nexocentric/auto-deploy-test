@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RubeGoldbergProgram
 {
-	class Program
+	class RubeGoldbergProgram
 	{
 		static void Main(string[] args)
 		{
