@@ -1,2 +1,2 @@
 # auto-deploy-test
-just a test
+If this shows up your test worked!
