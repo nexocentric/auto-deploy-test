@@ -8,6 +8,8 @@ namespace RubeGoldbergProgram
 {
 	class RubeGoldbergProgram
 	{
+		static Random numberGenerator = new Random();
+
 		static void Main(string[] args)
 		{
 			Console.WriteLine("This program does something simple in the most complicated way possible.");
@@ -24,7 +26,6 @@ namespace RubeGoldbergProgram
 
 		static int GetRandomNumber()
 		{
-			Random numberGenerator = new Random();
 			return numberGenerator.Next();
 		}
 	}
