@@ -1,2 +1,2 @@
 # auto-deploy-test
-If this shows up your test worked!
+Your auto deployment solution should be working now.
