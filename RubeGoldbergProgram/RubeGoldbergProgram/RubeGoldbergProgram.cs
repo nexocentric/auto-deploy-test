@@ -10,6 +10,9 @@ namespace RubeGoldbergProgram
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("This program does something simple in the most complicated way possible.");
+			Console.WriteLine("Press any key to continue.");
+			Console.ReadLine();
 		}
 	}
 }
