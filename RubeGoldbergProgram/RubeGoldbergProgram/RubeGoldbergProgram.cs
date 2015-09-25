@@ -22,6 +22,8 @@ namespace RubeGoldbergProgram
 
 			Console.WriteLine("What can we do with these numbers?");
 
+			Console.WriteLine("Now WHAT?!?!");
+
 			Console.WriteLine("Press any key to continue.");
 			Console.ReadLine();
 		}
