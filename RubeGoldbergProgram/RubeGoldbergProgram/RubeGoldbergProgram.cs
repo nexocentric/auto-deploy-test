@@ -8,7 +8,7 @@ namespace RubeGoldbergProgram
 {
 	class RubeGoldbergProgram
 	{
-		static Random numberGenerator = new Random();
+		static Random numberGenerator = new Random((int)DateTime.Now.Ticks);
 
 		static void Main(string[] args)
 		{
