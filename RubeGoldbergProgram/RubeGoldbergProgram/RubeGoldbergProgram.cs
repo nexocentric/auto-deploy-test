@@ -24,7 +24,7 @@ namespace RubeGoldbergProgram
 
 			Console.WriteLine("Now WHAT?!?!");
 
-			Console.WriteLine("And something else!");
+			Console.WriteLine("And something else!YES!");
 
 			Console.WriteLine("Press any key to continue.");
 			Console.ReadLine();
